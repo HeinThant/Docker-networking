@@ -16,8 +16,11 @@ Both containers are connected through a custom Docker network, allowing phpMyAdm
 If you haven't already:
 
 git clone <github.com/heinthant/docker-networking>
+
 cd "Docker networking"
+
 2. Start the Containers
+3. 
 Make sure Docker and Docker Compose are installed on your system. Then run:
 
 docker-compose up -d
@@ -76,6 +79,9 @@ You can change exposed ports in docker-compose.yml if needed.
 
 📁 Project Structure
 Docker networking/
+
 ├── docker-compose.yml
+
 └── README.md
+
 🚀 Happy Dockering!
