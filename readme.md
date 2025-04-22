@@ -20,8 +20,8 @@ git clone <github.com/heinthant/docker-networking>
 cd "Docker networking"
 
 2. Start the Containers
-3. 
-Make sure Docker and Docker Compose are installed on your system. Then run:
+
+3. Make sure Docker and Docker Compose are installed on your system. Then run:
 
 docker-compose up -d
 This will:
